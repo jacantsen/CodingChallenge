@@ -1,0 +1,102 @@
+body{
+    margin:none;
+    padding:none;
+    
+}
+.grid {
+    display: table;
+    border-spacing: 5px;
+    
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .row {
+    display: table-row;
+    position: relative;
+    top: 250px;
+    font-size:40px;
+    text-align: center;
+    
+  }
+  .cell1 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell2 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell3 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell4 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell5 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell6 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell6 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell7 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell8 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  .cell9 {
+    
+    width: 50px;
+    height: 50px;
+    background: white;
+    display: table-cell;
+    border:solid 1px black;
+  }
+  
