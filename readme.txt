@@ -30,7 +30,9 @@ I added the condition, so now it recognizes when a box has already has an X or a
 I think a while loop will allow me to continuosly generate random numbers until a box can be filled with an O. 
 
 **I wasn't able to get the while loop figured out completely, but the goal was that while the box was empty,
-  and if the corresponding box was empty, then an O would be placed there**
+  and if the corresponding box was empty, then an O would be placed there
+  
+  Some things are logged to the console, which I forgot to take out**
 
 
 
